@@ -1,3 +1,6 @@
+This project contains just the views for the front end of the netflix-clone
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
