@@ -11,7 +11,7 @@ const Navbar = () => {
     }
 
     return(
-        <div className={isScrolled ? 'navbar scroll' : 'navbar'}>
+        <div className={isScrolled ? 'navbar scrolled' : 'navbar'}>
             <div className='container'>
                 <div className='left'>
                     <img
